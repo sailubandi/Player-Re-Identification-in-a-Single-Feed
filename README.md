@@ -23,7 +23,7 @@ player\_reid\_single\_feed/
 
 ├── best.pt                        # Trained YOLOv8 detection model
 
-├── input\_720p.mp4                 # Input video file (15 seconds)
+├── input\_15second_input_720p.mp4                 # Input video file (15 seconds)
 
 ├── output\_tracked.mp4            # Output video with tracking boxes and IDs
 
@@ -60,7 +60,7 @@ pip install ultralytics opencv-python-headless filterpy deep_sort_realtime
 1. **Upload Required Files**:
 
    * `best.pt` (YOLOv8 fine-tuned model)
-   * `input_720p.mp4` (input soccer video)
+   * `15seconds_input_720p.mp4` (input soccer video)
 
 2. **Open and Run the Notebook**:
    Use `player_tracking.ipynb`, which includes:
