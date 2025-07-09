@@ -7,7 +7,7 @@
 
 ## 🎯 Objective
 
-This project performs real-time **player tracking and re-identification** in a single 15-second video using a fine-tuned [YOLOv8](w) model and the [Deep SORT](w) tracking algorithm. It ensures players retain the same identity (ID) even after leaving and re-entering the frame.
+This project performs real-time **player tracking and re-identification** in a single 15-second video using a fine-tuned [YOLOv11](w) model and the [Deep SORT](w) tracking algorithm. It ensures players retain the same identity (ID) even after leaving and re-entering the frame.
 
 ---
 
