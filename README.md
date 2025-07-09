@@ -19,7 +19,7 @@ This project performs real-time **player tracking and re-identification** in a s
  ```
 player\_reid\_single\_feed/
 
-├── player\_tracking.ipynb          # Main Colab Notebook
+├── player\_Player-Re-Identification-in-a-Single-Feed.ipynb          # Main Colab Notebook
 
 ├── best.pt                        # Trained YOLOv8 detection model
 
