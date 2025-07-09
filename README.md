@@ -60,6 +60,8 @@ pip install ultralytics opencv-python-headless filterpy deep_sort_realtime
 1. **Upload Required Files**:
 
    * `best.pt` (YOLOv8 fine-tuned model)
+      Object detection model link (for detecting players and the ball)
+      https://drive.google.com/file/d/1-5fOSHOSB9UXYP enOoZNAMScrePVcMD/view
    * `15sec_input_720p.mp4` (input soccer video)
 
 2. **Open and Run the Notebook**:
